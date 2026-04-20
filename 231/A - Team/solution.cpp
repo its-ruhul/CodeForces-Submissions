@@ -1,0 +1,1 @@
+#include<bits/stdc++.h>using namespace std; int main() {  int t;  cin >> t;    int count = 0;   for(int i = 0; i < t; i++){          int a1, a2, a3;    cin >> a1 >> a2 >> a3;        if (a1 + a2 + a3 >= 2){        count ++;    }  }    cout << count << endl;   return 0;}
