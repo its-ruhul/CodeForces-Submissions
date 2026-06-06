@@ -3,4 +3,5 @@
   <li>Bit Manipulation</li>
   <li>Constructive Algorithm</li>
   <li>Greedy Algorithm</li>
+  <li>Binary Search</li>
 </ul>
