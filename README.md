@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 7 |
+| 6 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
+- [dp](#dp) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (3)
 - [sortings](#sortings) (1)
@@ -33,6 +34,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/279/B%20-%20Books/solution.cpp) |
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 
 ### greedy
 
