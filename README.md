@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 14 |
+| 17 | 14 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [greedy](#greedy) (4)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (8)
-- [math](#math) (3)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (3)
@@ -106,6 +106,7 @@
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
+| 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
 
 ### number theory
 
