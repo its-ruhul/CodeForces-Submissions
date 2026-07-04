@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 18 |
+| 35 | 18 |
 
 ---
 
@@ -19,14 +19,14 @@
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (5)
-- [games](#games) (1)
+- [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (9)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (16)
-- [math](#math) (9)
-- [number theory](#number-theory) (1)
+- [math](#math) (10)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
 - [strings](#strings) (4)
 - [two pointers](#two-pointers) (3)
@@ -95,6 +95,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### graph matchings
 
@@ -161,6 +162,7 @@
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 
 ### number theory
@@ -168,6 +170,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### sortings
 
