@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 19 |
+| 47 | 19 |
 
 ---
 
@@ -19,14 +19,14 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (16)
-- [math](#math) (14)
+- [math](#math) (15)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (7)
 - [strings](#strings) (6)
@@ -101,6 +101,7 @@
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 
 ### games
 
@@ -182,6 +183,7 @@
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 
