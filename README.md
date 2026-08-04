@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 19 |
+| 69 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (3)
 - [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (1)
@@ -42,6 +42,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+| 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 
 ### binary search
 
