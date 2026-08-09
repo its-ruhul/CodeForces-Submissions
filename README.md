@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 19 |
+| 74 | 19 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (13)
+- [brute force](#brute-force) (14)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (10)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (7)
 - [games](#games) (3)
@@ -59,6 +59,7 @@
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
+| 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
@@ -97,6 +98,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 
 ### dfs and similar
