@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 88 | 20 |
+| 89 | 20 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [greedy](#greedy) (35)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (24)
-- [math](#math) (35)
+- [math](#math) (36)
 - [number theory](#number-theory) (10)
 - [sortings](#sortings) (13)
 - [strings](#strings) (8)
@@ -236,6 +236,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 598A | [Tricky Sum](https://codeforces.com/contest/598/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/598/A%20-%20Tricky%20Sum/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
