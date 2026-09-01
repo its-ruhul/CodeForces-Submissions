@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 100 | 21 |
+| 101 | 21 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [greedy](#greedy) (41)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (27)
-- [math](#math) (42)
+- [math](#math) (43)
 - [number theory](#number-theory) (12)
 - [sortings](#sortings) (14)
 - [strings](#strings) (9)
@@ -266,6 +266,7 @@
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
+| 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
