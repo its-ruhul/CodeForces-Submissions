@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 111 | 21 |
+| 113 | 21 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (19)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (23)
+- [constructive algorithms](#constructive-algorithms) (24)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (7)
@@ -25,11 +25,11 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (47)
+- [greedy](#greedy) (48)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (29)
 - [math](#math) (46)
-- [number theory](#number-theory) (13)
+- [number theory](#number-theory) (14)
 - [sortings](#sortings) (17)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (8)
@@ -122,6 +122,7 @@
 | 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2250/B%20-%20String%20Construction/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
@@ -228,6 +229,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2060C | [Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2060/C%20-%20Game%20of%20Mathletes/solution.cpp) |
+| 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2259/C%20-%20101/solution.cpp) |
@@ -340,6 +342,7 @@
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 
 ### sortings
 
