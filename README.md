@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 113 | 21 |
+| 114 | 21 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (19)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (24)
+- [constructive algorithms](#constructive-algorithms) (25)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (7)
@@ -123,6 +123,7 @@
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
+| 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2250/B%20-%20String%20Construction/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/its-ruhul/CodeForces-Submissions/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
