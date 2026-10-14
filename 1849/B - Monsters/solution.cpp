@@ -6,37 +6,38 @@ int solve(){
     int n, k, a;
     cin >> n >> k;
     
-    vector<pair<int, int>> v;
+    vector<pair<int, int> > v;
     
     for(int i = 1; i <= n; i++){
         cin >> a;
-        
-        if(a % k == 0) {
-            cout << i << " ";
-        }
-        else{
-            v.emplace_back(a % k, i);
-        }
+ 
+        if(a % k != 0) v.push_back({a % k, i});
+        else v.push_back({k, i});
     }
     
-    sort(v.begin(), v.end(), [](const auto& a, const auto& b) {
+    sort(v.begin(), v.end(), [](const auto& a, const auto& b){
         if(a.first != b.first){
             return a.first > b.first;
         }
-        return a.second < b.second;
+        else{
+            return a.second < b.second;
+        }
     });
-    
  
-    for(const auto& [j, i] : v){
-        cout << i << " ";
-    }
+    // for(const auto& i : v){
+    //     cout << i.first << " " << i.second << "; ";
+    // }
+    // cout << endl;
     
+    for(const auto& i : v){
+        cout << i.second << " ";
+    }
     cout << endl;
  
     return 0;
 }
  
- 
+ 
 int main() {
   
     int t;
