@@ -1,44 +1,67 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
- 
-int main() {
-  
-    int n, t, a = 0, c=0;
-    vector<int> v;
+ 
+// --- Type Aliases ---
+using ll = long long;
+using pii = pair<int, int>;
+using pll = pair<ll, ll>;
+using vi = vector<int>;
+using vll = vector<ll>;
+ 
+// --- Common Shortcuts ---
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+#define pb push_back
+#define fi first
+#define se second
+ 
+// --- Constants ---
+const int INF = 1e9 + 7;
+const ll LINF = 1e18;
+const int MOD = 1e9 + 7;
+ 
+void solve() {
     
+    ll n, t, a, m = 0;
     cin >> n >> t;
-    
-    for(int i = 0; i <= n; i++){
+ 
+    vll v(n+1);
+ 
+    for(ll i = 1; i <= n; i++){
         cin >> a;
-        v.push_back(a);
+        v[i] = v[i-1] + a;
     }
-    
-    // for(int i = 0; i < n; i++){
-    //     cout << v.at(i) << " ";
-    // }
-    // cout << endl;
-    
-    int l = 0, r = 0, m = 0, s = 0;
-    
-    while(r < n){
-        s += v[r];
-        
-        while(s > t){
-            s -= v[l];
-            l++;
+ 
+    ll i = 0, j = 1;
+ 
+    while(j <= n){
+        if(v[j] - v[i] <= t){
+            m = max({m, j-i});
+            // cout << j << " " << i << endl;
+            j++;
         }
-        
-        if(s <= t){
-            m = max({m, r-l+1});
+        else{
+            i++;
         }
-        
-        // cout << l << " " << r << " " << s << " " << m << " " << t << endl;
-        
-        r++;
     }
-    
+     
     cout << m << endl;
-    
-    
+ 
+    return;
+}
+ 
+int main() {
+    ios_base::sync_with_stdio(false); cin.tie(NULL);
+ 
+    int t = 1;
+    // cin >> t;
+ 
+    // freopen("div7.in", "r", stdin);
+    // freopen("div7.out", "w", stdout);
+ 
+    while (t--) {
+        solve();
+    }
+ 
     return 0;
 }
